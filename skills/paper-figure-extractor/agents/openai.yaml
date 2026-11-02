@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Figure Extractor"
+  short_description: "Extract high-signal figures from research PDFs"
+  default_prompt: "Extract a curated set of useful figures from this paper PDF and return links appropriate for the target note format."

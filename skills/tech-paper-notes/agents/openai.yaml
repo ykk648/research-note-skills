@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Paper Notes"
+  short_description: "Turn research sources into structured technical notes"
+  default_prompt: "Research the supplied paper and project sources, then create or update a structured note that follows the workspace's existing conventions."
